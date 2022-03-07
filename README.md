@@ -2,7 +2,7 @@
 
 ## About the Stack:
 
-### Front-End
+### Front-End:
 
 <ul>
 <li>React</li>
@@ -10,7 +10,7 @@
 <li>styled-components</li>
 </ul>
 
-### Back-End
+### Back-End:
 
 <ul>
 <li>Nest.js</li>
@@ -21,7 +21,7 @@
 <li>TypeORM</li>
 </ul>
 
-### Dockerizing
+### Dockerizing:
 
 <ul>
 <li>MySQL</li>
