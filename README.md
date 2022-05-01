@@ -1,4 +1,4 @@
-# Full Web App React Nodejs w/ GraphQL Tailwind and Docker | Master MERN STACK
+# Full Web App React Nodejs w/ GraphQL Tailwind and Docker
 
 ## About the Stack
 
